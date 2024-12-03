@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "id": "ff66",
+      "nombre": "Figura De Accion Naruto",
+      "precio": "20.000",
+      "imagen": "https://pixabay.com/es/photos/adulto-hombre-masculino-ninja-3826990/"
+    }
+  ]
+}
