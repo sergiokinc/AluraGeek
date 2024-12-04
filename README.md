@@ -85,6 +85,4 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 
 Desarrollado por Sergio Aguiar
 
-## Licencia
-
-Este proyecto está bajo la Licencia ISC
+https://sergiokinc.github.io/AluraGeek/
